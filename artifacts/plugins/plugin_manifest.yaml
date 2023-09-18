@@ -1,0 +1,7 @@
+created: 2023-09-18T02:41:22.267371376Z
+plugins:
+    - name: conformance
+      target: global
+      description: crashd plugin
+      versions:
+        - v0.0.0
